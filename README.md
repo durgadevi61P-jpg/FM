@@ -97,7 +97,7 @@ Calculation
 ![WhatsApp Image 2025-10-07 at 19 03 15_32b63d5c](https://github.com/user-attachments/assets/bffb7dda-874c-4b36-a567-05717140cd35)
 
 
-Frequency Deviation Practical = 
+Frequency Deviation Practical = 1.8
 
 Modulation Index Practical	= 2.4
 
