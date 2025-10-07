@@ -87,24 +87,21 @@ plot(t,efm);
 Output Waveform
 <img width="1920" height="1200" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/13820d2c-f377-44da-9449-9f0af7947f02" />
 
-
-
-
-
 Tabulation
 
+![WhatsApp Image 2025-10-07 at 19 03 15_c0a2400f](https://github.com/user-attachments/assets/074ebedc-2786-4d62-b301-c74148dc2e2a)
 
 
 Calculation
 
+![WhatsApp Image 2025-10-07 at 19 03 15_32b63d5c](https://github.com/user-attachments/assets/bffb7dda-874c-4b36-a567-05717140cd35)
 
 
 Frequency Deviation Practical = 
 
-Modulation Index Practical	= 
+Modulation Index Practical	= 2.4
 
-Modulation Index Theoretical	=
-
+Modulation Index Theoretical	=2.2
 
 
 RESULT:
