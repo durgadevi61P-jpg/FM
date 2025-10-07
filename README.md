@@ -65,7 +65,7 @@ MODEL GRAPH:
 
 
 Program
-````
+```
 Am=2.9;
 fm=184;
 Ac=5.8;
@@ -82,6 +82,7 @@ efm=Ac.*cos((2*3.14*fc*t)+(2.2*sin(2*3.12*fm*t)));
 subplot(3,1,3);
 plot(t,efm);
 
+```
 
 Output Waveform
 <img width="1920" height="1200" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/13820d2c-f377-44da-9449-9f0af7947f02" />
